@@ -1,1 +1,65 @@
-{"sections":{"main":{"type":"main-404","settings":{}}},"order":["main"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "main": {
+      "type": "main-404",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_ixEgLD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kkxfeK": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>About<\/strong><\/em>",
+            "heading_size": "h0"
+          }
+        },
+        "text_P6icxh": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><em><strong>DriveLux <\/strong><\/em><\/h2><p><strong>Welcome to DriveLux, your ultimate destination for a wide range of accessories for cars, motorcycles, bicycles, and sports. We offer an extensive selection of products, including water bottles, motorcycle gloves, LED lights, car decorations, and much more. Each item is carefully chosen to meet your needs and provide maximum comfort and style. Our goal is to ensure quality and convenience at every step.<\/strong><\/p><p><strong>Visit our website at <\/strong><a href=\"https:\/\/www.drivelux.fun\"><strong>DriveLux<\/strong><\/a><strong> and discover the best accessories for your journeys!<\/strong><\/p>"
+          }
+        },
+        "button_FfGhbY": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kkxfeK",
+        "text_P6icxh",
+        "button_FfGhbY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_ixEgLD"
+  ]
+}
